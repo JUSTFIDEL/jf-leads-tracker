@@ -1,0 +1,11 @@
+{
+	"name": "JF Leads Tracker",
+	"version": "1.0.0",
+	"description": "latest website collection",
+	"manifest_version": 3,
+	"author": "Fidelis Adang",
+	"action": {
+		"default_popup": "index.html",
+		"default_icon": "justfidel.png"
+	}
+}

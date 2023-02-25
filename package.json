@@ -1,27 +1,26 @@
 {
-  "name": "jf-lead-tracker",
-  "version": "1.0.0",
-  "description": "Lead Tracker Chrome Extension",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/JUSTFIDEL/jf-leads-tracker.git"
-  },
-  "keywords": [
-    "Chrome",
-    "Extension",
-    "HTML",
-    "CSS",
-    "Javascript",
-    "Node"
-  ],
-  "author": "Fidelis Adang",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/JUSTFIDEL/jf-leads-tracker/issues"
-  },
-  "homepage": "https://github.com/JUSTFIDEL/jf-leads-tracker#readme"
+	"name": "jf-lead-tracker",
+	"version": "1.0.0",
+	"description": "Lead Tracker Chrome Extension",
+	"main": "index.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/JUSTFIDEL/jf-leads-tracker.git"
+	},
+	"keywords": [
+		"Chrome-Extension",
+		"HTML",
+		"CSS",
+		"Javascript",
+		"Node"
+	],
+	"author": "Fidelis Adang",
+	"license": "ISC",
+	"bugs": {
+		"url": "https://github.com/JUSTFIDEL/jf-leads-tracker/issues"
+	},
+	"homepage": "https://github.com/JUSTFIDEL/jf-leads-tracker#readme"
 }
