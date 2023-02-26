@@ -6,32 +6,45 @@ body {
 	font-size: 62.5%;
 	font-family: "Be Vietnam Pro", sans-serif;
 	min-width: 350px;
+	max-width: 550px;
 }
 
 input {
 	width: 100%;
-	border-radius: 4px;
-	padding: 0.8rem;
+	border-radius: 3px;
+	padding: 0.3rem;
 	outline: none;
 	box-sizing: border-box;
 	border: 1px solid #5f9341;
 	margin-bottom: 4px;
-	font-size: 1.2rem;
+	font-size: 1rem;
 	color: #5f9341;
 }
 
 button {
 	background-color: #5f9341;
-	padding: 0.8rem 1.6rem;
+	padding: 0.2rem 0.5rem;
 	color: antiquewhite;
-	border-radius: 4px;
-	font-size: 1.3rem;
+	border-radius: 3px;
+	font-size: 0.9rem;
 	font-weight: semibold;
-	border: none;
+	border: 1px solid #5f9341;
+	margin-right: 2px;
+	margin-top: 2px;
+}
+
+#delete-btn {
+	background: whitesmoke;
+	color: #6d9258;
 }
 
 button:hover {
 	background-color: #76af56;
+}
+
+#delete-btn:hover {
+	background-color: #76af56;
+	color: whitesmoke;
 }
 
 ::placeholder {
@@ -39,16 +52,21 @@ button:hover {
 }
 
 ul {
-	font-size: 1.2rem;
+	font-size: 0.8rem;
 	list-style: none;
 	padding: 0.75rem;
 }
 
 li {
-	margin-bottom: 1rem;
+	margin-bottom: 0.5rem;
 }
 
 a {
 	color: #5f9341;
 	text-decoration: none;
+}
+
+a:hover {
+	text-decoration: underline;
+	color: #235a04;
 }
